@@ -2,3 +2,9 @@ notebook
 voila
 ipywidgets
 ipykernel
+pandas
+sklearn
+networkx
+matplotlib
+plotly
+pyarrow

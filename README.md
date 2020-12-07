@@ -36,8 +36,7 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
 
 ## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
+O dado utilizado no projeto é fruto de um pré-processamento tendo como base o dado de uma [competição de predição da plataforma Kaggle](https://www.kaggle.com/c/titanic).
 
 
 

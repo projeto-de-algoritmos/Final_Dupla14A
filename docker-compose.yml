@@ -1,0 +1,8 @@
+version: "3.6"
+services:
+  notebook:
+    build: .
+    volumes:
+      - ".:/app"
+    ports:
+      - 8888:8888

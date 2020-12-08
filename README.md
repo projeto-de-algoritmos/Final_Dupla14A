@@ -12,8 +12,15 @@
 
 ## Sobre
 A ideia da aplicação é, através da contrução de grafos e algoritmo de programação dinâmica, determinar quais pessoas de quais famílias irão sobreviver ao Titanic. Mas para isso existe uma condição, você será o projetista dos botes salva-vidas acoplados no barco e dirá qual o peso máximo que cada bote é capaz de suportar.
+
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+### Dado
+![dado](img/df.png)
+### Grafo
+![grafo](img/grafo.png)
+### Botes
+![botes](img/botes.png)
+
 
 ## Instalação 
 **Linguagem**: Python<br>
@@ -33,7 +40,9 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
     ```
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+1. Visualize o grafo de famílias;
+2. Escolha o valor do peso do bote;
+3. Clique no botão "Botes" para obter o resultado.
 
 ## Outros 
 ### Sobre o titanic

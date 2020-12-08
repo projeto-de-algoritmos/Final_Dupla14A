@@ -39,7 +39,8 @@ A ideia da aplicação é, através da contrução de grafos e algoritmo de prog
         http://localhost:8888/
     ```
 
-## Uso 
+## Uso
+[Vídeo de explicação](https://github.com/projeto-de-algoritmos/Final_Titanic/blob/master/explicacao.mp4)
 1. Visualize o grafo de famílias;
 2. Escolha o valor do peso do bote;
 3. Clique no botão "Botes" para obter o resultado.
